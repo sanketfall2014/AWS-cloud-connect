@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AWS Cloud Connect</string>
+    <string name="title_activity_list_files">listFiles</string>
+</resources>
